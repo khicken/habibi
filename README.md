@@ -1,2 +1,4 @@
 # habibi
-I can program, but we're programming music
+We can program, but we're programming music
+
+This is not actually software or a program
